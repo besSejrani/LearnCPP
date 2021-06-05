@@ -1,8 +1,8 @@
 site_name: Learn C++
 
 #Github Repository Header
-repo_name: BlueberryShop
-repo_url: https://github.com/besSejrani/BlueberryShop
+repo_name: Learn C++
+repo_url: https://github.com/besSejrani/LearnCPP
 
 theme:
   #Language
